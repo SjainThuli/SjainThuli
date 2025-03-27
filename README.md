@@ -1,8 +1,8 @@
 ##Hi 👋, I am Tholoana Sejane <br>
 <h3>A passionate Software Developer & Data Enthusiast from Lesotho</h3>
 - 🌱 I’m currently doing my M.Tech CSE final year at Punjabi Universty Patiala... <br>
-- 🌱 Currently learning and building projects in **Software Engineering, Machine Learning, and FinTech**.,br>
-- 🚀 Working on **Real-world projects** like:<br>
+- 🌱 Currently learning and building projects in <b>Software Engineering, Machine Learning, and FinTech<b>.,<br>
+- 🚀 Working on <b>Real-world projects</b> like:<br>
   - 📱 Mobile Apps (React Native)<br>
   - 🌐 Web Development (Node.js, React)<br>
   - 🌾 Smart Agriculture & Disease Detection Systems<br>
@@ -10,6 +10,7 @@
 - 🎯 Passionate about <b>solving real-world problems</b> through technology.<br>
 - ✨ Always ready to collaborate and learn new things!<br>
 ## 🌐 Socials:<br>
+  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thulisjain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thulisjain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TholoanaSejane) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_thulz_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TholoanaSejane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thulisjain@gmail.com) 
 
 # 💻 Tech Stack:
